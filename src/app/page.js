@@ -113,7 +113,7 @@ const Portfolio = () => {
 
   const skills = {
     "Programming": ["Python", "C/C++", "R", "MATLAB"],
-    "Development": ["HTML", "CSS", "SQL", "Bootstrap", "JavaScript", "React", "MongoDB", "Express", "Node"],
+    "Development": ["HTML", "SQL", "Bootstrap", "JavaScript", "MongoDB", "Express", "Node"],
     "Data Science": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-Learn"],
     "Technologies": ["GitHub", "Kaggle", "Arduino", "Auto-CAD", "Linux/Unix"],
     "CS Core": ["Operating System", "DBMS", "Networking", "OOPs", "Algorithms"]
